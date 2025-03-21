@@ -1,6 +1,6 @@
 # PARYAS - Your Gateway to Learning Technology & Computer Science
 
-Welcome to **PARYAS**! 🚀
+## Welcome to **PARYAS**! 🚀
 ![HOME PAGE](https://github.com/user-attachments/assets/fd4a59cb-ebae-443b-9efc-96196484d159)
 
 
