@@ -1,0 +1,21 @@
+
+# Ignore files that match the following patterns
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.log
+*.tgz
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+# Ignore coverage directory
+coverage/
+# Ignore build artifacts
+dist/
+build/
+# Ignore node_modules directory
+node_modules/
+
