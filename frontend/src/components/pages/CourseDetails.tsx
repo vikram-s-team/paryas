@@ -340,15 +340,15 @@ const courseData = {
   'devops': {
     title: 'DevOps Engineering Fundamentals',
     instructor: {
-      name: 'Rahul Kumar',
+      name: 'Vikram Kumar',
       role: 'Senior DevOps Engineer',
       company: 'Tech Solutions Ltd',
       experience: '8+ years',
-      image: '/instructors/rahul.jpg',
+      image: '/teachers/vikram.png',
       bio: 'Expert in CI/CD, containerization, and cloud infrastructure with experience at leading tech companies.',
-      linkedin: 'https://linkedin.com/in/rahul-kumar',
-      website: 'https://rahulkumar.dev',
-      email: 'rahul@techsolutions.com'
+      linkedin: 'https://linkedin.com/in/iamvikramkumar',
+      website: '#',
+      email: 'vikram@paryas.com'
     },
     syllabus: [
       {
@@ -372,15 +372,15 @@ const courseData = {
   'devops-aws': {
     title: 'DevOps with AWS',
     instructor: {
-      name: 'Priya Singh',
+      name: 'Dheeraj Kumar',
       role: 'AWS Solutions Architect',
       company: 'Cloud Experts Inc',
       experience: '10+ years',
-      image: '/instructors/priya.jpg',
+      image: '/teachers/dheeraj.png',
       bio: 'Certified AWS architect specializing in DevOps practices and cloud infrastructure.',
-      linkedin: 'https://linkedin.com/in/priya-singh',
-      website: 'https://priyasingh.tech',
-      email: 'priya@cloudexperts.com'
+      linkedin: 'https://linkedin.com/in/iamdheerajkumar',
+      website: '#',
+      email: 'dheeraj@paryas.com'
     },
     syllabus: [
       {
@@ -401,18 +401,19 @@ const courseData = {
       }
     ]
   },
+
   'java-programming': {
     title: 'Java Development',
     instructor: {
-      name: 'Amit Sharma',
+      name: 'Dheeraj Kumar',
       role: 'Lead Java Developer',
       company: 'Software Solutions Ltd',
       experience: '12+ years',
-      image: '/instructors/amit.jpg',
+      image: '/teachers/dheeraj.png',
       bio: 'Java expert with extensive experience in enterprise application development.',
       linkedin: 'https://linkedin.com/in/amit-sharma',
       website: 'https://amitsharma.dev',
-      email: 'amit@softwaresolutions.com'
+      email: 'dheeraj@paryas.com'
     },
     syllabus: [
       {
@@ -446,26 +447,26 @@ const CourseDetails = () => {
   // Additional expert teachers data
   const additionalExperts = [
     {
-      name: "Dr. Rajesh Verma",
+      name: "Hirdesh Kumar Yadav",
       role: "Technical Director",
       company: "Institute of Technology",
       experience: "15+ years",
-      image: "/instructors/rajesh.jpg",
+      image: "/teachers/hirdesh.jpeg",
       bio: "Ph.D. in Computer Science with expertise in AI, Machine Learning, and Cloud Computing. Published numerous research papers and led multiple technical projects.",
-      linkedin: "https://linkedin.com/in/rajesh-verma",
-      website: "https://rajeshverma.tech",
-      email: "rajesh.verma@institute.edu"
+      linkedin: "https://linkedin.com/in/iamhirdeshkumar15",
+      website: "#",
+      email: "hirdesh@paryas.com"
     },
     {
-      name: "Sneha Patel",
+      name: "Akhilesh Prajapati",
       role: "Senior Software Architect",
       company: "TechCorp Solutions",
       experience: "12+ years",
-      image: "/instructors/sneha.jpg",
+      image: "/teachers/akhilesh.jpeg",
       bio: "Full-stack development expert specializing in enterprise applications. Led teams at major tech companies and contributed to open-source projects.",
-      linkedin: "https://linkedin.com/in/sneha-patel",
-      website: "https://snehapatel.dev",
-      email: "sneha@techcorp.com"
+      linkedin: "https://linkedin.com/in/akp03112000",
+      website: "#",
+      email: "akhilesh@paryas.com"
     }
   ];
 

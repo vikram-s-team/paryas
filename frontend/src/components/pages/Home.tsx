@@ -710,7 +710,7 @@ const Home = () => {
                   >
                     <Box
                       component="img"
-                      src={`https://source.unsplash.com/800x600/?${course.toLowerCase().replace(' ', ',')}`}
+                      src={`/home/paryas.png`}
                       alt={course}
                       sx={{
                         width: '100%',
