@@ -378,7 +378,7 @@ const courseData = {
       experience: '10+ years',
       image: '/teachers/dheeraj.png',
       bio: 'Certified AWS architect specializing in DevOps practices and cloud infrastructure.',
-      linkedin: 'https://linkedin.com/in/iamdheerajkumar',
+      linkedin: 'https://linkedin.com/in/dheerajkumar856',
       website: '#',
       email: 'dheeraj@paryas.com'
     },
@@ -411,7 +411,7 @@ const courseData = {
       experience: '12+ years',
       image: '/teachers/dheeraj.png',
       bio: 'Java expert with extensive experience in enterprise application development.',
-      linkedin: 'https://linkedin.com/in/amit-sharma',
+      linkedin: 'https://linkedin.com/in/dheerajkumar856',
       website: 'https://amitsharma.dev',
       email: 'dheeraj@paryas.com'
     },
