@@ -146,7 +146,7 @@ const Home = () => {
               >
                 <Box
                   component="img"
-                  src="/home/Education.png"
+                  src="/home/Education.webp"
                   alt="Education"
                   sx={{
                     width: '100%',
