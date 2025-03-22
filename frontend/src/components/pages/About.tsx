@@ -34,9 +34,9 @@ const About = () => {
       image: '/teachers/vikram.png',
       description: 'Experienced in building scalable applications and mentoring junior developers.',
       social: {
-        linkedin: 'https://linkedin.com/in/vikram',
-        twitter: 'https://twitter.com/vikram',
-        github: 'https://github.com/vikram'
+        linkedin: 'https://linkedin.com/in/iamvikramkumar5',
+        twitter: '#',
+        github: 'https://github.com/iamvikramkumar'
       }
     },
     {

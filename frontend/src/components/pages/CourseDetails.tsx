@@ -346,7 +346,7 @@ const courseData = {
       experience: '8+ years',
       image: '/teachers/vikram.png',
       bio: 'Expert in CI/CD, containerization, and cloud infrastructure with experience at leading tech companies.',
-      linkedin: 'https://linkedin.com/in/iamvikramkumar',
+      linkedin: 'https://linkedin.com/in/iamvikramkumar5',
       website: '#',
       email: 'vikram@paryas.com'
     },
